@@ -9,7 +9,8 @@
 #define DHTPIN 21
 #define soil 34
 NewPing sonar(33,32,200);//(Trig,Echo,Distance);
-
+//test
+//test
 //output
 #define water_motor 0
 #define light1 4
