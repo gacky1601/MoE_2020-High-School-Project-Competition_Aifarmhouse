@@ -23,7 +23,7 @@ const passcode = 'qwerasdf';
 const group=[];
 const photo=[];
 
-
+//a
 const aqiOpt = {
     uri: "http://opendata2.epa.gov.tw/AQI.json",
     json: true
